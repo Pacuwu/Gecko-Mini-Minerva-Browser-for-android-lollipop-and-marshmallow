@@ -51,6 +51,8 @@ Tested and verified to render heavy, reactive modern frameworks and real-time co
 ### 🔮 Future Enhancements (Planned Quality-of-Life Updates)
 - [ ] **Contextual Long-Press Menu:** Implementation of hit-testing hooks to allow long-pressing links or images to "Open in new tab", "Download image", or "Copy URL".
 - [ ] **Extended UI Theme Customization:** Additional visual toggles to adjust rendering layouts directly from the settings bar.
+- [ ] **zoom with 2 fingers:** Pinch with two fingers to zoom in or out on the page
+- [ ] **Avoid crashes on sites like Make It Meme, Twitch.tv, or Discord.com:** I need to find a way to prevent these pages from crashing. It will take time and will depend on the device; they don't open on the **Xperia M2.**
 
 ---
 
