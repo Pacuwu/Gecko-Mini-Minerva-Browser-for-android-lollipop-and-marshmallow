@@ -1,5 +1,5 @@
 ![Engine](https://img.shields.io/badge/Engine-GeckoView_143-orange)
-![Compatibility](https://img.shields.io/badge/Compatibility-Android_5.0%2B-green)
+![Compatibility](https://img.shields.io/badge/Compatibility-Android_5.1%2B-green)
 ![RAM Target](https://img.shields.io/badge/RAM_Target-1_GB-purple)
 ![Status](https://img.shields.io/badge/Status-Beta-blue)
 
