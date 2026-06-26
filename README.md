@@ -18,7 +18,7 @@ An ultra-lightweight, high-performance Android web browser built on top of the m
 
 ## 📱 System Requirements & Compatibility
 
-* **Minimum Android Version:** Android 5.0+ (API Level 21 - Lollipop) up to modern versions.
+* **Minimum Android Version:** Android 5.1+ (API Level 21 - Lollipop) up to modern versions.
 * **Target Hardware:** Perfect for low-end testing benches, old devices, or resource-constrained emulated environments.
 
 ---
@@ -31,6 +31,12 @@ Tested and verified to render heavy, reactive modern frameworks and real-time co
 * **Character.ai (`character.ai` / `c.ai`):** Smooth real-time chat rendering and AI message stream processing without lagging the legacy CPU or triggering low-memory process kills.
 * **gemini (`https://gemini.google.com/`):** Interestingly, it's stable, and it doesn't crash with white pages.
 * **Heavy WebApps:** Capable of loading intensive real-time web games (like Subway Surfers web) and live chat interfaces natively without memory overflow.
+* **Tetris** (`https://play.tetris.com/`): You can play it, but you need to manually adapt the content.
+* **itch.io** (`https://itch.io`): It can load everything, but don't try to play FNF XD
+* **GitHub** (`https://github.com`): If you're reading this, it's because the GitHub website is open XD
+* **TDTChannels** (`https://www.tdtchannels.com/`): It works, but it might lag.
+* **Twitch** (`https://twitch.tv`): It works, but don't try to type in the chat because the page crashes 😹
+* **Instagram/Facebook** (`https://facebook.com`) (`https://instagram.com`): Both work very well and crashes are rare.
 
 ---
 
